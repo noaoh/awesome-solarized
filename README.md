@@ -22,11 +22,11 @@ $ $EDITOR ~/.config/awesome/rc.lua
 
 to have the line starting with `beautiful.init` look like this:
 ```
-beautiful.init( awful.util.getdir("config") .. "/themes/awesome-solarized/solarized-dark/theme.lua" )
+beautiful.init( awful.util.getdir("config") .. "/themes/awesome-solarized/dark/theme.lua" )
 ```
 or
 ```
-beautiful.init( awful.util.getdir("config") .. "/themes/awesome-solarized/solarized-light/theme.lua" )
+beautiful.init( awful.util.getdir("config") .. "/themes/awesome-solarized/light/theme.lua" )
 ```
 
 License
